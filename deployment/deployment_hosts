@@ -1,0 +1,5 @@
+[staging_d3js_test]
+ec2-34-251-194-136.eu-west-1.compute.amazonaws.com ansible_ssh_private_key_file=~/.ssh/d3js-test.pem
+
+[staging_d3js_test:vars]
+user=ubuntu

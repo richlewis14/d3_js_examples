@@ -1,0 +1,5 @@
+app:
+  main_dir: /var/www/ds3js_test
+
+nginx:
+  main_dir: /etc/nginx
